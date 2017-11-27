@@ -1,4 +1,4 @@
 # invie
-Las guitarras más locas
+Your golden guitar aerospace-invie by @Jonesh
 
-http://leonidasesteban.github.io/invie-responsive/
+https://jonesh05.github.io/invie-github/
