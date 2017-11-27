@@ -1,4 +1,4 @@
 # invie
-Your golden guitar aerospace-invie by @Jonesh
+Tus guitarras locas
 
 https://jonesh05.github.io/invie-github/
